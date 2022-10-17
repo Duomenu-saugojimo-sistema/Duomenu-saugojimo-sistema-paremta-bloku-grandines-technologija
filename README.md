@@ -1,8 +1,6 @@
-# Duomenu-saugojimo-sistema-paremta-bloku-grandines-technologija
+# Pavadinimas: Duomenų saugojimo sistema paremta blokų grandinės technologija
+# Title: The data storage system that is based on blockchain technology
 
-
-Pavadinimas:	Duomenų saugojimo sistema paremta blokų grandinės technologija
-Title:	The data storage system that is based on blockchain technology
 Vadovė:	Lekt. dr. Eglė Butkevičiūtė
 Vadovės el. paštas:	egle.butkeviciute@ktu.lt
 Kūrėjas (-ai):	Antanas Bendoraitis
@@ -16,6 +14,7 @@ Užsakovas:	Lekt. dr. Eglė Butkevičiūtė
 Užsakovo įstaiga:	KTU
 Užsakovo el. paštas:	 egle.butkeviciute@ktu.lt
 
-Kūrimo techninės ir programinės priemonės:	•	Asmeninis kompiuteris (Operacinė sistema nesvarbi)
+Kūrimo techninės ir programinės priemonės:	
+•	Asmeninis kompiuteris (Operacinė sistema nesvarbi)
 •	Programavimo kalba, pasirinktinai.
 
