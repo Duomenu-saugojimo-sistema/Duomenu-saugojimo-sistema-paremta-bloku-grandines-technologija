@@ -11,4 +11,6 @@
 | Užsakovas: |	Lekt. dr. Eglė Butkevičiūtė |
 | Užsakovo įstaiga: |	KTU |
 | Užsakovo el. paštas: |	_egle.butkeviciute@ktu.lt_ |
-| Kūrimo techninės ir programinės priemonės:	•	Asmeninis kompiuteris (Operacinė sistema nesvarbi) •	Programavimo kalba, pasirinktinai. |
+| Kūrimo techninės ir programinės priemonės: | 
+  •	Asmeninis kompiuteris (Operacinė sistema nesvarbi) 
+  •	Programavimo kalba, pasirinktinai. |
