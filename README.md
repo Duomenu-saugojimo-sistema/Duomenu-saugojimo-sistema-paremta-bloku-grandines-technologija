@@ -1,7 +1,7 @@
 # Pavadinimas: Duomenų saugojimo sistema paremta blokų grandinės technologija
 # Title: The data storage system that is based on blockchain technology
 
-| First Header  | Second Header |
+| Pavadinimas  | Duomenų saugojimo sistema paremta blokų grandinės technologija |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
