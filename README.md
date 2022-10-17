@@ -3,8 +3,8 @@
 
 | Pavadinimas  | Duomenų saugojimo sistema paremta blokų grandinės technologija |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Vadovė:  | Lekt. dr. Eglė Butkevičiūtė  |
+| Vadovės el. paštas:  | _egle.butkeviciute@ktu.lt_  |
 
 | Vadovė: |	Lekt. dr. Eglė Butkevičiūtė |
 Vadovės el. paštas:	_egle.butkeviciute@ktu.lt_
