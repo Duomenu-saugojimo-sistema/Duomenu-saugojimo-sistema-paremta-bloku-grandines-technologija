@@ -9,4 +9,4 @@
 | Užsakovas: |	Lekt. dr. Eglė Butkevičiūtė |
 | Užsakovo įstaiga: |	KTU |
 | Užsakovo el. paštas: |	_egle.butkeviciute@ktu.lt_ |
-| Kūrimo techninės ir programinės priemonės: | Markup: •	Asmeninis kompiuteris (Operacinė sistema nesvarbi) •	Programavimo kalba, pasirinktinai.  <ul style="list-style-type:circle;"><li>Coffee</li><li>Tea</li><li>Milk</li></ul> |
+| Kūrimo techninės ir programinės priemonės: | <ul style="list-style-type:circle;"><li>Asmeninis kompiuteris (Operacinė sistema nesvarbi)</li><li>Programavimo kalba, pasirinktinai.</li></ul> |
