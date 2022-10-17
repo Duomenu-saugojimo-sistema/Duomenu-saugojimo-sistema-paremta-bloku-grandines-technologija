@@ -2,7 +2,7 @@
 # Title: The data storage system that is based on blockchain technology
 
 Vadovė:	Lekt. dr. Eglė Butkevičiūtė
-Vadovės el. paštas:	egle.butkeviciute@ktu.lt
+Vadovės el. paštas:	_egle.butkeviciute@ktu.lt_
 Kūrėjas:	Antanas Bendoraitis
 Kūrėjo el. paštas:	_antanas.bendoraitis@ktu.edu_
 
