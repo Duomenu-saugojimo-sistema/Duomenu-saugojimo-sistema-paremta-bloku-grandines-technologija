@@ -3,8 +3,8 @@
 
 Vadovė:	Lekt. dr. Eglė Butkevičiūtė
 Vadovės el. paštas:	egle.butkeviciute@ktu.lt
-Kūrėjas (-ai):	Antanas Bendoraitis
-Kūrėjo (-ų) el. paštas	antanas.bendoraitis@ktu.edu
+Kūrėjas:	Antanas Bendoraitis
+Kūrėjo el. paštas:	_antanas.bendoraitis@ktu.edu_
 
 Anotacija:	Darbo tikslas yra sukurti saugią duomenų saugojimo sistemą, paremtą blokų grandinių (angl. Blockchain) technologija. Galutinė sistema saugos naudotojų informaciją ir suteiks galimybę atlikti numatytas manipuliacijas su duomenimis. 
 
