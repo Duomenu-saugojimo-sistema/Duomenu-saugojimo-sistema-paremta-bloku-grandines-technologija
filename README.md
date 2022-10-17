@@ -5,22 +5,16 @@
 | ------------- | ------------- |
 | Vadovė:  | Lekt. dr. Eglė Butkevičiūtė  |
 | Vadovės el. paštas:  | _egle.butkeviciute@ktu.lt_  |
+| Kūrėjas: |	Antanas Bendoraitis |
+| Kūrėjo el. paštas: |	_antanas.bendoraitis@ktu.edu_ |
+| Anotacija: |	Darbo tikslas yra sukurti saugią duomenų saugojimo sistemą, paremtą blokų grandinių (angl. Blockchain) technologija. Galutinė sistema saugos naudotojų informaciją ir suteiks galimybę atlikti numatytas manipuliacijas su duomenimis. 
 
-| Vadovė: |	Lekt. dr. Eglė Butkevičiūtė |
-Vadovės el. paštas:	_egle.butkeviciute@ktu.lt_
-Kūrėjas:	Antanas Bendoraitis
-Kūrėjo el. paštas:	_antanas.bendoraitis@ktu.edu_
+Pagrindinis darbo akcentas yra duomenų saugojimo struktūrų tinkamų duomenų saugojimui tyrimas analizuojant jų efektyvumą, greitį, naudojamą atmintį. Šiuo tikslu būtina apžvelgti egzistuojančius sprendimus, pritaikyti duomenų saugojimo struktūrų vertinimo metodikas bei atlikti jų lyginamąją analizę su blokų grandinių duomenų struktūra.
 
-Anotacija:	Darbo tikslas yra sukurti saugią duomenų saugojimo sistemą, paremtą blokų grandinių (angl. Blockchain) technologija. Galutinė sistema saugos naudotojų informaciją ir suteiks galimybę atlikti numatytas manipuliacijas su duomenimis. 
-
-Pagrindinis darbo akcentas yra duomenų saugojimo struktūrų tinkamų duomenų saugojimui tyrimas analizuojant jų efektyvumą, greitį, naudojamą atmintį. Šiuo tikslu būtina apžvelgti egzistuojančius sprendimus, pritaikyti duomenų saugojimo struktūrų vertinimo metodikas bei atlikti jų lyginamąją analizę su blokų grandinių duomenų struktūra. 
-
-Projektas yra praktiškai determinuojamas atvirojo kodo programine įranga.
-Užsakovas:	Lekt. dr. Eglė Butkevičiūtė
-Užsakovo įstaiga:	KTU
-Užsakovo el. paštas:	 egle.butkeviciute@ktu.lt
-
-Kūrimo techninės ir programinės priemonės:	
+Projektas yra praktiškai determinuojamas atvirojo kodo programine įranga. |
+| Užsakovas: |	Lekt. dr. Eglė Butkevičiūtė |
+| Užsakovo įstaiga: |	KTU |
+| Užsakovo el. paštas: |	_egle.butkeviciute@ktu.lt_ |
+| Kūrimo techninės ir programinės priemonės:	
 •	Asmeninis kompiuteris (Operacinė sistema nesvarbi)
-•	Programavimo kalba, pasirinktinai.
-
+•	Programavimo kalba, pasirinktinai. |
