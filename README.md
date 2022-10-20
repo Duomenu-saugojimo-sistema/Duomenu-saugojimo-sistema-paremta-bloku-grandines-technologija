@@ -10,5 +10,5 @@
 | Užsakovo įstaiga: |	KTU |
 | Užsakovo el. paštas: |	_egle.butkeviciute@ktu.lt_ |
 | Kūrimo techninės ir programinės priemonės: | <ul style="list-style-type:circle;"><li>Asmeninis kompiuteris (Operacinė sistema nesvarbi)</li><li>Programavimo kalba, pasirinktinai.</li></ul> |
-| Raktažodžiai: | Blokų grandinė, duomenų saugojimas |
+| Raktažodžiai: | Blokų grandinė, duomenų saugykla |
 | Keywords: | Blokchain, data storage |
